@@ -13,6 +13,6 @@ To use this plugin, wrap anything you want to be processed by it between these t
 
 ## Change Log
 
-- Version 1.1
+- 1.1
 	- Updated plugin to be 2.0 compatible
 
