@@ -11,7 +11,7 @@ To use this plugin, wrap anything you want to be processed by it between these t
     {/exp:ptobr}
 
 
-# Change Log
+## Change Log
 
 - Version 1.1
 	- Updated plugin to be 2.0 compatible
